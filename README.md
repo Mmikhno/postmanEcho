@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/wl9tn68u11yo65ja?svg=true)](https://ci.appveyor.com/project/Mmikhno/bank)
+[![Build status](https://ci.appveyor.com/api/projects/status/v1n7km5dn2j72ifc?svg=true)](https://ci.appveyor.com/project/Mmikhno/postmanecho)
