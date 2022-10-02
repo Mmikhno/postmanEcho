@@ -20,7 +20,7 @@ public class postmanTest {
                 .statusCode(200)
                 .log().body()
                 .and().body("data",hasLength(9))
-                .and().body("data",equalTo("new value"))
+                .and().body("data",equalTo("newvalue"))
         ;
     }
 }
