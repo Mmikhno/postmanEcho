@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wl9tn68u11yo65ja?svg=true)](https://ci.appveyor.com/project/Mmikhno/bank)
